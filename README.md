@@ -1,2 +1,3 @@
-# Data-Modeling-with-Apache-Cassandra
-Data Engineering Project 2
+# Data Modeling with Apache-Cassandra
+
+(Will be updated soon)
